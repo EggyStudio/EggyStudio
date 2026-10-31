@@ -13,6 +13,10 @@ scripted with its own Unity-style behaviors. Implementing Radiance Cascades. [e3
 ![Shaders](https://img.shields.io/badge/Shaders-Slang-2E7D32)
 ![Status](https://img.shields.io/badge/Status-Early-yellow)
 
+<img src="https://raw.githubusercontent.com/EggyStudio/Voxel-Sandbox/main/.github/assets/head.gif" width="800" height="450" alt="Ten views of seeds 1 and 6 two seconds each, a desert village, the badlands, a cherry grove, a plains village by its river, a swamp, the jungle, a snowy village by day and by night, a room lit by a lantern and torches, and the sun rising over the sea">
+
+[Voxel Sandbox](https://github.com/EggyStudio/Voxel-Sandbox) · A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs]
+
 </div>
 
 <div align="center">
@@ -23,17 +27,8 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4) ![Graphics](https://img.shields.io/badge/Graphics-wgpu%20%28Vulkan%2C%20DX12%2C%20Metal%29-AC162C) ![Windowing](https://img.shields.io/badge/Windowing-winit-0B7BB2) ![Shaders](https://img.shields.io/badge/Shaders-Slang-2E7D32) ![Status](https://img.shields.io/badge/Status-Early-yellow)
 
+![Showcase](https://raw.githubusercontent.com/EggyStudio/BevyCSharp/refs/heads/main/.github/assets/showcase_3.gif)
 
-
-</div>
-
-<div align="center">
-
-## [Voxel Sandbox](https://github.com/EggyStudio/Voxel-Sandbox)
-
-A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs]
-
-<img src="https://raw.githubusercontent.com/EggyStudio/Voxel-Sandbox/main/.github/assets/head.gif" width="800" height="450" alt="Ten views of seeds 1 and 6 two seconds each, a desert village, the badlands, a cherry grove, a plains village by its river, a swamp, the jungle, a snowy village by day and by night, a room lit by a lantern and torches, and the sun rising over the sea">
 
 </div>
 
