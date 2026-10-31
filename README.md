@@ -50,10 +50,6 @@ Libraries the engines take as git submodules, so one solution serves both.
 - [UniversalSceneDescription](https://github.com/EggyStudio/UniversalSceneDescription) - OpenUSD USD.NET (Universal Scene Description) by Pixar and translated by Unity
 - [MaterialX.Net](https://github.com/EggyStudio/MaterialX.Net) - A single-package .NET binding for the MaterialX rich material and look-development content in computer graphics
 - [UltralightNet.Bundle](https://github.com/EggyStudio/UltralightNet.Bundle) - A single-package .NET binding for the Ultralight HTML rendering engine
-- [BlueprintShell](https://github.com/EggyStudio/BlueprintShell) - BlueprintShell is an embeddable editor shell built on BlazorBlueprintUI
-- [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) - Convert one or more Markdown files into a styled, navigable PDF using WinAppSDK WinUI3 Fluent UI
-- [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) - An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically
-- [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) - A .NET binding of ZeroTier's networking
 
 ## [Unity Essentials](https://github.com/EggyStudio/UnityEssentials)
 
