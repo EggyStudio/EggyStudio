@@ -4,10 +4,35 @@ Game engines in C#, a voxel game on them, the modules they share, bindings of gr
 
 ## The engines and the game
 
+<div align="center">
+
+## [3D Engine](https://github.com/EggyStudio/3DEngine)
+
+A C# engine on SDL3, Vulkan, ImGui and Slang. Raylib's design over a Bevy-style ECS and scheduler,
+scripted with its own Unity-style behaviors. Implementing Radiance Cascades. [e3d.cs]
+
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4)
+![Graphics](https://img.shields.io/badge/Graphics-Vulkan-AC162C)
+![Windowing](https://img.shields.io/badge/Windowing-SDL3-0B7BB2)
+![Shaders](https://img.shields.io/badge/Shaders-Slang-2E7D32)
+![Status](https://img.shields.io/badge/Status-Early-yellow)
+
+</div>
+
+<div align="center">
+
+## [Bevy C#](https://github.com/EggyStudio/BevyCSharp)
+
+Bevy C# [Behavior] on a struct are component & systems, generated at compile or runtime and wired straight into Bevy's ECS. Implementing Radiance Cascades. [bcs]
+
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4) ![Graphics](https://img.shields.io/badge/Graphics-wgpu%20%28Vulkan%2C%20DX12%2C%20Metal%29-AC162C) ![Windowing](https://img.shields.io/badge/Windowing-winit-0B7BB2) ![Shaders](https://img.shields.io/badge/Shaders-Slang-2E7D32) ![Status](https://img.shields.io/badge/Status-Early-yellow)
+
+
+
+</div>
+
 | Repository | What it is |
 |---|---|
-| [3DEngine](https://github.com/EggyStudio/3DEngine) | A C# engine on SDL3, Vulkan, ImGui and Slang. Raylib's design over a Bevy-style ECS and scheduler, scripted with its own Unity-style behaviors. Implementing Radiance Cascades. [e3d.cs] |
-| [BevyCSharp](https://github.com/EggyStudio/BevyCSharp) | Bevy C# [Behavior] on a struct are component & systems, generated at compile or runtime and wired straight into Bevy's ECS. Implementing Radiance Cascades. [bcs] |
 | [Voxel-Sandbox](https://github.com/EggyStudio/Voxel-Sandbox) | A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs] |
 
 ## The modules both engines use
@@ -23,23 +48,23 @@ Libraries the engines take as git submodules, so one solution serves both.
 | [RadianceCascades](https://github.com/EggyStudio/RadianceCascades) | The radiance cascades' CPU side and Slang shaders, each engine binding its own GPU side |
 | [Tools](https://github.com/EggyStudio/Tools) | The scripts and document sources the repositories share, the devlog generator and the run reader among them |
 
-## .NET bindings and tools
-
-| Repository | What it is |
-|---|---|
-| [MaterialX.Net](https://github.com/EggyStudio/MaterialX.Net) | A single-package .NET binding for the MaterialX rich material and look-development content in computer graphics |
-| [UltralightNet.Bundle](https://github.com/EggyStudio/UltralightNet.Bundle) | A single-package .NET binding for the Ultralight HTML rendering engine |
-| [UniversalSceneDescription](https://github.com/EggyStudio/UniversalSceneDescription) | OpenUSD USD.NET (Universal Scene Description) by Pixar and translated by Unity |
-| [BlueprintShell](https://github.com/EggyStudio/BlueprintShell) | BlueprintShell is an embeddable editor shell built on BlazorBlueprintUI |
-| [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) | Convert one or more Markdown files into a styled, navigable PDF using WinAppSDK WinUI3 Fluent UI |
-| [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) | An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically |
-| [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) | A .NET binding of ZeroTier's networking |
-
 ## Linux
 
 | Repository | What it is |
 |---|---|
 | [02Gnome](https://github.com/EggyStudio/02Gnome) | Configure and customize your GNOME environment in one command |
+
+## .NET bindings and tools
+
+| Repository | What it is |
+|---|---|
+| [UniversalSceneDescription](https://github.com/EggyStudio/UniversalSceneDescription) | OpenUSD USD.NET (Universal Scene Description) by Pixar and translated by Unity |
+| [MaterialX.Net](https://github.com/EggyStudio/MaterialX.Net) | A single-package .NET binding for the MaterialX rich material and look-development content in computer graphics |
+| [UltralightNet.Bundle](https://github.com/EggyStudio/UltralightNet.Bundle) | A single-package .NET binding for the Ultralight HTML rendering engine |
+| [BlueprintShell](https://github.com/EggyStudio/BlueprintShell) | BlueprintShell is an embeddable editor shell built on BlazorBlueprintUI |
+| [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) | Convert one or more Markdown files into a styled, navigable PDF using WinAppSDK WinUI3 Fluent UI |
+| [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) | An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically |
+| [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) | A .NET binding of ZeroTier's networking |
 
 ## Unity Essentials
 
