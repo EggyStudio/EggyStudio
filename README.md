@@ -15,6 +15,8 @@ scripted with its own Unity-style behaviors. Implementing Radiance Cascades. [e3
 
 </div>
 
+---
+
 <div align="center">
 
 ## [Bevy C#](https://github.com/EggyStudio/BevyCSharp)
@@ -27,9 +29,17 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 
 </div>
 
-| Repository | What it is |
-|---|---|
-| [Voxel-Sandbox](https://github.com/EggyStudio/Voxel-Sandbox) | A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs] |
+---
+
+<div align="center">
+
+## [Voxel Sandbox](https://github.com/EggyStudio/Voxel-Sandbox)
+
+A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs]
+
+<img src="https://raw.githubusercontent.com/EggyStudio/Voxel-Sandbox/main/.github/assets/head.gif" width="800" height="450" alt="Ten views of seeds 1 and 6 two seconds each, a desert village, the badlands, a cherry grove, a plains village by its river, a swamp, the jungle, a snowy village by day and by night, a room lit by a lantern and torches, and the sun rising over the sea">
+
+</div>
 
 ## The modules both engines use
 
