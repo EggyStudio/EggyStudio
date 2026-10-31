@@ -1,5 +1,3 @@
-# EggyStudio
-
 <div align="center">
 
 ## [3D Engine](https://github.com/EggyStudio/3DEngine)
@@ -15,7 +13,7 @@ scripted with its own Unity-style behaviors. Implementing Radiance Cascades. [e3
 
 <img src="https://raw.githubusercontent.com/EggyStudio/Voxel-Sandbox/main/.github/assets/head.gif" width="800" height="450" alt="Ten views of seeds 1 and 6 two seconds each, a desert village, the badlands, a cherry grove, a plains village by its river, a swamp, the jungle, a snowy village by day and by night, a room lit by a lantern and torches, and the sun rising over the sea">
 
-[Voxel Sandbox](https://github.com/EggyStudio/Voxel-Sandbox) · A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs]
+[Voxel Sandbox](https://github.com/EggyStudio/Voxel-Sandbox) - A voxel game written in C# on 3DEngine. Implementing Radiance Cascades. [e3d.cs]
 
 </div>
 
@@ -36,27 +34,27 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 
 Libraries the engines take as git submodules, so one solution serves both.
 
-- [Modeling](https://github.com/EggyStudio/Modeling) · An edit mesh shaped by operations through a selection, with recipes and commands
-- [Vegetation](https://github.com/EggyStudio/Vegetation) · Trees and grass grown from a species and a seed, with their texture sets and placement
-- [Levels](https://github.com/EggyStudio/Levels) · Levels in the Valve 220 map format, brushes to meshes and collision, with TrenchBroom's files
-- [Landscape](https://github.com/EggyStudio/Landscape) · A heightfield shaped by stamps and erosion, with vegetation placed over it
-- [RadianceCascades](https://github.com/EggyStudio/RadianceCascades) · The radiance cascades' CPU side and Slang shaders, each engine binding its own GPU side
-- [Tools](https://github.com/EggyStudio/Tools) · The scripts and document sources the repositories share, the devlog generator and the run reader among them
+- [Modeling](https://github.com/EggyStudio/Modeling) - An edit mesh shaped by operations through a selection, with recipes and commands
+- [Vegetation](https://github.com/EggyStudio/Vegetation) - Trees and grass grown from a species and a seed, with their texture sets and placement
+- [Levels](https://github.com/EggyStudio/Levels) - Levels in the Valve 220 map format, brushes to meshes and collision, with TrenchBroom's files
+- [Landscape](https://github.com/EggyStudio/Landscape) - A heightfield shaped by stamps and erosion, with vegetation placed over it
+- [RadianceCascades](https://github.com/EggyStudio/RadianceCascades) - The radiance cascades' CPU side and Slang shaders, each engine binding its own GPU side
+- [Tools](https://github.com/EggyStudio/Tools) - The scripts and document sources the repositories share, the devlog generator and the run reader among them
 
 ## Linux
 
-- [02Gnome](https://github.com/EggyStudio/02Gnome) · Configure and customize your GNOME environment in one command
+- [02Gnome](https://github.com/EggyStudio/02Gnome) - Configure and customize your GNOME environment in one command
 
 ## .NET bindings and tools
 
-- [UniversalSceneDescription](https://github.com/EggyStudio/UniversalSceneDescription) · OpenUSD USD.NET (Universal Scene Description) by Pixar and translated by Unity
-- [MaterialX.Net](https://github.com/EggyStudio/MaterialX.Net) · A single-package .NET binding for the MaterialX rich material and look-development content in computer graphics
-- [UltralightNet.Bundle](https://github.com/EggyStudio/UltralightNet.Bundle) · A single-package .NET binding for the Ultralight HTML rendering engine
-- [BlueprintShell](https://github.com/EggyStudio/BlueprintShell) · BlueprintShell is an embeddable editor shell built on BlazorBlueprintUI
-- [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) · Convert one or more Markdown files into a styled, navigable PDF using WinAppSDK WinUI3 Fluent UI
-- [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) · An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically
-- [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) · A .NET binding of ZeroTier's networking
+- [UniversalSceneDescription](https://github.com/EggyStudio/UniversalSceneDescription) - OpenUSD USD.NET (Universal Scene Description) by Pixar and translated by Unity
+- [MaterialX.Net](https://github.com/EggyStudio/MaterialX.Net) - A single-package .NET binding for the MaterialX rich material and look-development content in computer graphics
+- [UltralightNet.Bundle](https://github.com/EggyStudio/UltralightNet.Bundle) - A single-package .NET binding for the Ultralight HTML rendering engine
+- [BlueprintShell](https://github.com/EggyStudio/BlueprintShell) - BlueprintShell is an embeddable editor shell built on BlazorBlueprintUI
+- [MarkdownToPDF](https://github.com/EggyStudio/MarkdownToPDF) - Convert one or more Markdown files into a styled, navigable PDF using WinAppSDK WinUI3 Fluent UI
+- [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) - An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically
+- [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) - A .NET binding of ZeroTier's networking
 
 ## Unity Essentials
 
-[UnityEssentials](https://github.com/EggyStudio/UnityEssentials) · A modular, production-ready ecosystem of game development building blocks with automated dependency management. Its 143 packages are one repository each, listed there.
+[UnityEssentials](https://github.com/EggyStudio/UnityEssentials) - A modular, production-ready ecosystem of game development building blocks with automated dependency management. Its 143 packages are one repository each, listed there.
