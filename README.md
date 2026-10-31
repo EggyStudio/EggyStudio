@@ -1,9 +1,5 @@
 # EggyStudio
 
-Game engines in C#, a voxel game on them, the modules they share, bindings of graphics libraries for .NET, and a set of packages for Unity. Each repository records its work in `DEVLOG.md`.
-
-## The engines and the game
-
 <div align="center">
 
 ## [3D Engine](https://github.com/EggyStudio/3DEngine)
