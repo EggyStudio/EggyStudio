@@ -55,6 +55,16 @@ Libraries the engines take as git submodules, so one solution serves both.
 - [Encyclopedia](https://github.com/EggyStudio/Encyclopedia) - An open, Wikipedia-style encyclopedia where articles live in ordinary GitHub repositories and the web app pulls them in automatically
 - [ZeroTier.Quantum.Net](https://github.com/EggyStudio/ZeroTier.Quantum.Net) - A .NET binding of ZeroTier's networking
 
-## Unity Essentials
+## [Unity Essentials](https://github.com/EggyStudio/UnityEssentials)
 
-[UnityEssentials](https://github.com/EggyStudio/UnityEssentials) - A modular, production-ready ecosystem of game development building blocks with automated dependency management. Its 143 packages are one repository each, listed there.
+A modular package ecosystem for Unity 6 and HDRP, production-ready building blocks for game and simulation development, from core architecture and environment systems to graphics, networking and editor tooling. Each module installs on its own, and the dependencies between modules resolve automatically. All scripts live in the `UnityEssentials` namespace.
+
+**Installation**
+
+1. Add the package through Unity's Package Manager, in the Window menu, with the plus button and "Add package from git URL", pasting
+
+   ```
+   https://github.com/EggyStudio/UnityEssentials.git
+   ```
+
+2. Install modules from the Tools menu, under UnityEssentials and Install & Update. Select single modules or install all, and run it again at any time to update.
