@@ -38,6 +38,7 @@ Libraries the engines take as git submodules, so one solution serves both.
 - [Vegetation](https://github.com/EggyStudio/Vegetation) - Trees and grass grown from a species and a seed, with their texture sets and placement
 - [Levels](https://github.com/EggyStudio/Levels) - Levels in the Valve 220 map format, brushes to meshes and collision, with TrenchBroom's files
 - [Landscape](https://github.com/EggyStudio/Landscape) - A heightfield shaped by stamps and erosion, with vegetation placed over it
+- [Sky](https://github.com/EggyStudio/Sky) - The sky's clock, the sun's and the sky's light in physical units, the atmosphere's parameters, the weather and the looks by the sun's height, both engines lighting from its numbers while each draws its own sky
 - [RadianceCascades](https://github.com/EggyStudio/RadianceCascades) - The radiance cascades' CPU side and Slang shaders, each engine binding its own GPU side
 - [Tools](https://github.com/EggyStudio/Tools) - The scripts and document sources the repositories share, the devlog generator and the run reader among them
 
