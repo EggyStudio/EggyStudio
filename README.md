@@ -35,6 +35,7 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 Libraries the engines take as git submodules, so one solution serves both.
 
 - [Modeling](https://github.com/EggyStudio/Modeling) - An edit mesh shaped by operations through a selection, with recipes and commands
+- [Materials](https://github.com/EggyStudio/Materials) - What a surface is, a material's description, its pictures and their encoding, and a lit surface's response, in glTF 2.0's terms
 - [Vegetation](https://github.com/EggyStudio/Vegetation) - Trees and grass grown from a species and a seed, with their texture sets and placement
 - [Levels](https://github.com/EggyStudio/Levels) - Levels in the Valve 220 map format, brushes to meshes and collision, with TrenchBroom's files
 - [Landscape](https://github.com/EggyStudio/Landscape) - A heightfield shaped by stamps and erosion, with vegetation placed over it
