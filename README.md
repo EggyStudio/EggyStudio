@@ -25,7 +25,7 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4) ![Graphics](https://img.shields.io/badge/Graphics-wgpu%20%28Vulkan%2C%20DX12%2C%20Metal%29-AC162C) ![Windowing](https://img.shields.io/badge/Windowing-winit-0B7BB2) ![Shaders](https://img.shields.io/badge/Shaders-Slang-2E7D32) ![Status](https://img.shields.io/badge/Status-Early-yellow)
 
-![Showcase](https://raw.githubusercontent.com/EggyStudio/BevyCSharp/refs/heads/main/.github/assets/showcase_3.gif)
+![Showcase](https://raw.githubusercontent.com/EggyStudio/BevyCSharp/refs/heads/main/.github/assets/showcase_2.gif)
 
 
 </div>
@@ -34,19 +34,15 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 
 Libraries the engines take as git submodules, so one solution serves both.
 
-- [3DEngine.Modeling](https://github.com/EggyStudio/3DEngine.Modeling) - An edit mesh shaped by operations through a selection, with recipes, commands and glTF
-- [3DEngine.Materials](https://github.com/EggyStudio/3DEngine.Materials) - A material's description, its pictures and their BC7 encoding, and a lit surface's response, in glTF 2.0's terms
-- [3DEngine.Vegetation](https://github.com/EggyStudio/3DEngine.Vegetation) - Trees and grass grown from a species and a seed, with their leaves, stems and texture sets
-- [3DEngine.Levels](https://github.com/EggyStudio/3DEngine.Levels) - Levels in the Valve 220 map format, brushes to meshes, collision and cells, with lights, movers, triggers and TrenchBroom's files
-- [3DEngine.Landscape](https://github.com/EggyStudio/3DEngine.Landscape) - A heightfield shaped by stamps, masks and erosion, with tiles, a splat map and placement
-- [3DEngine.Sky](https://github.com/EggyStudio/3DEngine.Sky) - The sky's clock, the sun's, the moon's and the sky's light in physical units by wavelength, the air, the weather and the night, for any engine that binds it
 - [3DEngine.RadianceCascades](https://github.com/EggyStudio/3DEngine.RadianceCascades) - Radiance cascades over a distance field, the CPU side and the Slang kernels an engine binds
+- [3DEngine.Sky](https://github.com/EggyStudio/3DEngine.Sky) - The sky's clock, the sun's, the moon's and the sky's light in physical units by wavelength, the air, the weather and the night, for any engine that binds it
+- [3DEngine.Materials](https://github.com/EggyStudio/3DEngine.Materials) - A material's description, its pictures and their BC7 encoding, and a lit surface's response, in glTF 2.0's terms
+- [3DEngine.Levels](https://github.com/EggyStudio/3DEngine.Levels) - Levels in the Valve 220 map format, brushes to meshes, collision and cells, with lights, movers, triggers and TrenchBroom's files
+- [3DEngine.Modeling](https://github.com/EggyStudio/3DEngine.Modeling) - An edit mesh shaped by operations through a selection, with recipes, commands and glTF
+- [3DEngine.Landscape](https://github.com/EggyStudio/3DEngine.Landscape) - A heightfield shaped by stamps, masks and erosion, with tiles, a splat map and placement
+- [3DEngine.Vegetation](https://github.com/EggyStudio/3DEngine.Vegetation) - Trees and grass grown from a species and a seed, with their leaves, stems and texture sets
 - [3DEngine.Diagnostics](https://github.com/EggyStudio/3DEngine.Diagnostics) - The console, the settings an engine and a game register, the settings panel and the overlay, for any engine that binds it
 - [3DEngine.Tools](https://github.com/EggyStudio/3DEngine.Tools) - The scripts, checks and document sources the repositories share, the sheets and charts among them
-
-## Linux
-
-- [02Gnome](https://github.com/EggyStudio/02Gnome) - Configure and customize your GNOME environment in one command
 
 ## .NET bindings and tools
 
@@ -67,3 +63,7 @@ A modular package ecosystem for Unity 6 and HDRP, production-ready building bloc
    ```
 
 2. Install modules from the Tools menu, under UnityEssentials and Install & Update. Select single modules or install all, and run it again at any time to update.
+
+## Linux
+
+- [02Gnome](https://github.com/EggyStudio/02Gnome) - Configure and customize your GNOME environment in one command
