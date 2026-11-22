@@ -35,7 +35,7 @@ Bevy C# [Behavior] on a struct are component & systems, generated at compile or 
 Libraries the engines take as git submodules, so one solution serves both.
 
 - [3DEngine.RadianceCascades](https://github.com/EggyStudio/3DEngine.RadianceCascades) - Radiance cascades over a distance field, the CPU side and the Slang kernels an engine binds
-- [3DEngine.Sky](https://github.com/EggyStudio/3DEngine.Sky) - The sky's clock, the sun's, the moon's and the sky's light in physical units by wavelength, the air, the weather and the night, for any engine that binds it
+- [3DEngine.Sky](https://github.com/EggyStudio/3DEngine.Sky) - A physically based sky for any engine, a spectral atmosphere with the sun, the moon and the night in physical units, the sky's clock and the weather
 - [3DEngine.Materials](https://github.com/EggyStudio/3DEngine.Materials) - A material's description, its pictures and their BC7 encoding, and a lit surface's response, in glTF 2.0's terms
 - [3DEngine.Levels](https://github.com/EggyStudio/3DEngine.Levels) - Levels in the Valve 220 map format, brushes to meshes, collision and cells, with lights, movers, triggers and TrenchBroom's files
 - [3DEngine.Modeling](https://github.com/EggyStudio/3DEngine.Modeling) - An edit mesh shaped by operations through a selection, with recipes, commands and glTF
